@@ -1,0 +1,16 @@
+body{
+    background-color: lightgrey;
+}
+
+#wrapper{
+    width: 100vw;
+    height: 100vh;
+}
+
+.left{
+    background: url("images/left.png") no-repeat fixed center;
+}
+
+.right {
+    background: url("images/right.png") no-repeat fixed center;
+}
